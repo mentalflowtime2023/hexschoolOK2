@@ -786,7 +786,7 @@ h4 {
 
     .info-bottom {
         display: flex;
-        justify-content: flex-start;
+        justify-content: space-around
         list-style-type: none;
     }
 
