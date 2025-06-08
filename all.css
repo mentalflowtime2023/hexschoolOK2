@@ -771,11 +771,6 @@ h4 {
     .about-consult {
         flex-direction: column;
     }
-
-    .case-card {
-        width: 200%;
-    }
-
     .about-top {
         width: 100%;
     }
